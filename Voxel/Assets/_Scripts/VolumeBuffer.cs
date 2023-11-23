@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class VolumeBuffer
 {
-    public VolumeBuffer(Vector3Int vet3Int) { Voxels = ; }
+    public VolumeBuffer(Vector3Int vet3Int) {  }
 
     public float[,,] Voxels;
 
